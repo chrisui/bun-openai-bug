@@ -5,3 +5,5 @@ const agent = new RealtimeAgent({
   instructions:
     'You are a helpful voice assistant. Be conversational and engaging. Keep responses concise but informative.',
 });
+
+console.log('if you see this you are ok!')
