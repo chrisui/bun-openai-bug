@@ -1,0 +1,15 @@
+{
+  "name": "bun-openai-bug",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@openai/agents-realtime": "^0.1.3"
+  }
+}
